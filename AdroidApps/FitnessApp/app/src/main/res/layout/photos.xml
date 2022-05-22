@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/indoortrack"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/gym0"
+            android:padding="15dp"
+            android:src="@drawable/indoortrack" />
+
+        <TextView
+            android:layout_width = "600dp"
+            android:layout_height = "wrap_content"
+            android:text = "@string/info0"
+            android:textSize="30sp"/>
+    </TableRow>
+
+    <TableRow android:layout_height="350dp">
+
+        <ImageView
+            android:id="@+id/box"
+            android:layout_width="400dp"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/gym1"
+            android:padding="15dp"
+            android:src="@drawable/boxing" />
+
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:text="@string/info1"
+            android:textSize="30sp" />
+    </TableRow>
+    <TextView>
+
+    </TextView>
+    <TableRow>
+        <ImageView android:id = "@+id/weights"
+            android:contentDescription = "@string/gym2"
+            android:layout_width="400dp"
+            android:layout_height = "wrap_content"
+            android:src = "@drawable/weightmachine"
+            android:padding = "15dp"/>
+
+        <TextView
+            android:layout_width = "600dp"
+            android:layout_height = "wrap_content"
+            android:text = "@string/info2"
+            android:textSize="30sp"/>
+
+    </TableRow>
+    <TableRow>
+        <ImageView android:id = "@+id/treadmill"
+            android:contentDescription = "@string/gym3"
+            android:layout_width="400dp"
+            android:layout_height = "wrap_content"
+            android:src = "@drawable/treadmill"
+            android:padding = "15dp"/>
+
+        <TextView
+            android:layout_width = "600dp"
+            android:layout_height = "wrap_content"
+            android:text = "@string/info3"
+            android:textSize="30sp"/>
+
+    </TableRow>
+</TableLayout>

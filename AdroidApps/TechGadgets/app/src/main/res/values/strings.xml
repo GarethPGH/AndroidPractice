@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tech Gadgets</string>
+    <string name="rice">Zojirushi Rice Cooker</string>
+    <string name="mixer">KitchenAid Stand Mixer</string>
+    <string name="console">XBox 360 Game Console</string>
+    <string name="dance">DDR Foam Dancepad</string>
+    <string name="VR">Valve Index VR Headset</string>
+
+    <string name="riceinfo">A rice cooker is an automated kitchen appliance designed to boil or steam rice.
+        The Zojirushi brand cooker has several settings to cook many different kinds of rice, porridge, and mixed rice.
+    </string>
+    <string name="mixinfo">Stand Mixers are kitchen appliances that are used primarily for mixing types of dough for baking, but can be used for any type of mixing tasks.
+        They come with several attachments, including a dough hook, a whisk, and a paddle.
+        Additional front attachments increase the versatility of the Kitchen Aid brand by enabling the mixer to do things mixers traditionally don\'t do.
+    </string>
+    <string name="consoleinfo">The XBox brand is a long standing brand of game consoles, featuring popular titles, and exclusives such as the Forza racing series.
+        Developed by Microsoft, the system was designed to run on the Windows Operating System, allowing developers to leverage their computers to make games more efficiently
+    </string>
+    <string name="danceinfo">Dance Dance Revolution is a series of games that gained popularity in the early 2000s, through the 2010s.
+        Originally DDR was a series of arcade games that featured music, animations, and an interactive screen with arrows.
+        The cabinets featured a large metal platform to control the game through using the feet.
+        The game was subsequently ported to various consoles due to its popularity, however, its design necessitated the creation of a dance pad style game controller.
+        The foam version is vastly superior to the once widely available cheap folding plastic versions.
+    </string>
+    <string name="VRinfo">The Index is a virtual reality headset created by the Valve Corporation. Although, it is not the first of its kind, it was the top of the line when it launched.
+        This version of the headset features two handheld controllers, and two base stations that triangulate the position of the player.
+        The headset features 6 sensors for positioning, and high resolution OLED displays. However, its main flaw is the fact it is connected to the computer via a cord, that the user can trip over.
+        Future iterations of the headset are wireless. Although the VR market still commonly features drastic hardware changes, and proprietary equipment, it is a growing industry with a huge consumer footprint
+    </string>
+</resources>

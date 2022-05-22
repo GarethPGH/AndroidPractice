@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    >
+
+    <TableRow android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="10dp">
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="210dp"
+            android:padding = "15dp"
+            android:text = "@string/age0"
+            android:textSize = "30sp"/>
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="200dp"
+            android:padding = "15dp"
+            android:text = "@string/price0"
+            android:textSize = "30sp"/>
+    </TableRow>
+    <TableRow    android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="10dp">
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="200dp"
+            android:padding = "15dp"
+            android:text = "@string/age1"
+            android:textSize = "30sp" />
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="200dp"
+            android:padding = "15dp"
+            android:text = "@string/price1"
+            android:textSize = "30sp" />
+    </TableRow>
+    <TableRow    android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="10dp">
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="250dp"
+            android:padding = "15dp"
+            android:text = "@string/age2"
+            android:textSize = "24sp" />
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="200dp"
+            android:padding = "15dp"
+            android:text = "@string/price2"
+            android:textSize = "30sp" />
+    </TableRow>
+    <TableRow    android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="10dp">
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="200dp"
+            android:padding = "15dp"
+            android:text = "@string/age3"
+            android:textSize = "30sp" />
+        <TextView
+            android:layout_height="70dp"
+            android:layout_width="200dp"
+            android:padding = "15dp"
+            android:text = "@string/price3"
+            android:textSize = "30sp" />
+    </TableRow>
+
+</TableLayout>

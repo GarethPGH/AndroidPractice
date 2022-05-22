@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Garrus Vakarian</string>
+    <string name="btn1">See Slideshow</string>
+    <string name="btn2">See Animation</string>
+    <string name="anim1">Slideshow of Garrus</string>
+    <string name="anim2">Tween Animation of Garrus</string>
+</resources>

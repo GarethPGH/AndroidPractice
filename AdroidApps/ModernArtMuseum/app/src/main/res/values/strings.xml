@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Modern Art Museums</string>
+    <string name="title_item_detail">Item Detail</string>
+
+        <string name="barnes">Barnes Museum</string>
+        <string name="tate">Tate Museum</string>
+        <string name="gogh">Van Gogh Museum</string>
+
+    <string-array name="museum">
+        <item>Barnes Museum</item>
+        <item name="tate">Tate Museum</item>
+        <item name="gogh">Van Gogh Museum</item>
+    </string-array>
+
+       <string name="barweb">https://www.barnesfoundation.org</string>
+       <string name="tateweb">https://www.tate.org.uk</string>
+       <string name="goghweb">https://www.vangoghmuseum.nl/en</string>
+
+</resources>

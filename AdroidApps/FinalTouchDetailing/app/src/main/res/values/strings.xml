@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final Touch Auto Detailing</string>
+    <string name="schedule">Schedule your Service</string>
+    <string name="wash">$10 Basic Car Wash</string>
+    <string name="deluxe">$45 Deluxe Wash: Interior Clean, and Wax included</string>
+    <string name="washclean">$20 Basic Car Wash with Interior Vacuum</string>
+    <string name="restore">$160 Full Restore: deluxe wash, interior, and decal repair</string>
+</resources>

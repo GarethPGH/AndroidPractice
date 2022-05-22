@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Train Trip</string>
+    <string name="minutelen">Length of Trip (in Minutes)</string>
+    <string name="warn">Max Length of Trip: 1500 mins</string>
+    <string name="hours">Hour (24hr):</string>
+    <string name="mins">Minutes:</string>
+    <string name="arrival">Expected Arrival:</string>
+    <string name="departure">Departure Time:</string>
+    <string name="see">See Expected Arrival</string>
+    <string name="red">Red-Eye Arrival</string>
+</resources>

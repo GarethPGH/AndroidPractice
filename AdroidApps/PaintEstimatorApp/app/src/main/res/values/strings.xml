@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Paint Estimator App</string>
+    <string name="title">Enter the Length and Height of room and press Calculate button</string>
+    <string name="height">Height of room (ft):</string>
+    <string name="length">Length of room (ft):</string>
+    <string name="gallons">Number of Gallons:</string>
+    <string name="color">Color selected:</string>
+    <string-array name="colorselect">
+        <item>skyblue</item>
+        <item>eggshell</item>
+        <item>lavender</item>
+        <item>peach</item>
+        <item>seafoam</item>
+    </string-array>
+    <string name="gallonscolor"># Gallons and Color</string>
+    <string name="buttontitle">Calculate Gallons Needed</string>
+    <string name="spinner">Select Color:</string>
+    <string name="content">Picture of a Painted Room</string>
+</resources>

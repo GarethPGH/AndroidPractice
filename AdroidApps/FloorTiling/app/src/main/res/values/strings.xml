@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Floor Tiling</string>
+    <string name="len">Length of Room (ft)</string>
+    <string name="wid">Width of Room (ft)</string>
+    <string name="tiles">Tiles Needed</string>
+    <string name="calc">Calculate Tiles</string>
+    <string name="size">Tile Size</string>
+    <string name="size1">12 x 12</string>
+    <string name="size2">18 x 18</string>
+</resources>

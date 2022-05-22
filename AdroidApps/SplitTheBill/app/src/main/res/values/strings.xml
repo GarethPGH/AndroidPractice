@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Split The Bill</string>
+    <string name="calc">Calculate Your Share</string>
+    <string-array name="rating">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+    <string name="prompt">Select Quality of Service</string>
+    <string name="context">Image of Salmon Dinner</string>
+    <string name="payment">Your Portion of Bill</string>
+    <string name="party">Number of People in Party</string>
+    <string name="billtotal">Total Cost of Bill</string>
+    <string name="calcbill">Fill in the required information, and then press button to calculate your payment plus an 18% gratuity</string>
+    <string name="Open">Open Calculator</string>
+
+</resources>

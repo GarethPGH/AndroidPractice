@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="peso">Mexican Pesos</string>
+    <string name="can">Canadian Dollars</string>
+    <string name="eur">Euros</string>
+    <string name="warn">Convert up to $100,000</string>
+    <string name="amount">Amount USD to Convert</string>
+    <string name="converted">Converted Amount</string>
+    <string name="convert">Convert Money</string>
+    <string name="option">Conversion Options</string>
+</resources>

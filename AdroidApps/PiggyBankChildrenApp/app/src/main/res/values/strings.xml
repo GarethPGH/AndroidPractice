@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PiggyBankChildrenApp</string>
+    <string name="title_activity_main">Piggy Bank</string>
+    <string name="use">Use Bank</string>
+    <string name="total">Total Amount of Money</string>
+    <string name="quart"># Quarters</string>
+    <string name="dime"># Dimes</string>
+    <string name="nick"># Nickels</string>
+    <string name="pen"># Pennies</string>
+    <string name="prompt">Is Child Spending or Saving Money</string>
+    <string name="SeeTotal">See Total</string>
+    <string name="info">Choose whether Saving or Spending Money</string>
+    <string-array name="spendsave">
+        <item>Saving</item>
+        <item>Spending</item>
+    </string-array>
+
+</resources>

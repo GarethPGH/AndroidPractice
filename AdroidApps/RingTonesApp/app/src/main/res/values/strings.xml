@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RingTones App</string>
+    <string name="ringtone1">Cantina Band</string>
+    <string name="ringtone2">Extreme Alarm Clock</string>
+    <string name="ringtone3">Troll Song</string>
+
+    <string name="ringdesc1">A part of the Star Wars Cantina scene</string>
+    <string name="ringdesc2">Klaxon that will definitely make sure you are awake</string>
+    <string name="ringdesc3">Cute song that featured in a block matching puzzle game</string>
+
+    <string name="melo">Ringtones brought to you by Melobloom</string>
+    <string name="pic">picture of a phone</string>
+</resources>

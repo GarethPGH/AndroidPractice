@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animal Voices</string>
+    <string name="pigs">Play Pig Sounds</string>
+    <string name="cows">Play Cow Sounds</string>
+    <string name="pigspause">Pause Pig Sounds</string>
+    <string name="cowspause">Pause Cow Sounds</string>
+    <string name="cowp">Picture of Cows</string>
+    <string name="pigp">Picture of Pigs</string>
+</resources>

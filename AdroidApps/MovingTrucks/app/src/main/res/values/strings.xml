@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Moving Truck Rentals</string>
+    <string name="small">10 ft Truck</string>
+    <string name="med">17 ft Truck</string>
+    <string name="large">26 ft Truck</string>
+    <string name="miles">Distance in Miles</string>
+    <string name="cost">Cost of Rental</string>
+    <string name="order">Truck Order Form</string>
+    <string name="calc">See Cost</string>
+</resources>

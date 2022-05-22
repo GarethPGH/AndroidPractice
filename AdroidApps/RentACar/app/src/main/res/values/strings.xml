@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rent A Car</string>
+    <string name="id_carplaces">+@id/carplaces</string>
+</resources>

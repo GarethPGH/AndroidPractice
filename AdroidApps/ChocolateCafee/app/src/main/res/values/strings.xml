@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chocolat Cafe</string>
+    <string name="dessert1">Chocolate Mousse</string>
+    <string name="dessert2">Chocolate Cake</string>
+    <string name="dessert3">Chocolate Macaron</string>
+    <string name="web">Chocolat Cafe Website</string>
+</resources>

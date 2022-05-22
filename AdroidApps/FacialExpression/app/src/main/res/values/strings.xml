@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facial Expressions</string>
+    <string name="buttn">See Facial Expressions</string>
+    <string name="animationcont">Animation of 7 facial expressions</string>
+</resources>

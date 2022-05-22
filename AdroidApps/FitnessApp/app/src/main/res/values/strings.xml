@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="title_item_detail">Snap Fitness</string>
+
+    <string name = "gym0">Indoor Track</string>
+    <string name = "gym1">Boxing Area</string>
+    <string name = "gym2">Weight Machines</string>
+    <string name = "gym3">Treadmills</string>
+
+    <string name = "info0">An Indoor running track, and pool (downstairs) for your cross training needs</string>
+    <string name = "info1">Looking for somewhere to practice your boxing game? Say no more! We have it here</string>
+    <string name = "info2">A plethora of weights, and machines to build new muscle on</string>
+    <string name = "info3">Plenty of treadmills, with a nice view for a pleasant experience</string>
+
+
+    <string name = "price0">$25</string>
+    <string name = "price1">$50</string>
+    <string name = "price2">$75</string>
+    <string name = "price3">$50</string>
+
+    <string name = "age0">Youth(14-17)</string>
+    <string name = "age1">Adult(18+)</string>
+    <string name = "age2">Family/Household</string>
+    <string name = "age3">Active Senior</string>
+</resources>

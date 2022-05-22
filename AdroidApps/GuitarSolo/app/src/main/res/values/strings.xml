@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Guitar Solo</string>
+    <string name="play">Play Solo</string>
+    <string name="pause">Pause Solo</string>
+</resources>

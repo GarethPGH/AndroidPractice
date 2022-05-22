@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car Wash Packages</string>
+    <string name = "Washes">Buy 12+ Washes for a Discount!</string>
+    <string name="Ext">Exterior Only</string>
+    <string name="Int">Exterior with Interior Vacuum</string>
+    <string name="calc">Calculate Package</string>
+    <string name="cost">Cost of Packages</string>
+    <string name="num">Number of Packages</string>
+</resources>
